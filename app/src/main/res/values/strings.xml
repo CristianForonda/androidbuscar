@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Webinar</string>
+    <string name="webinar_title">Webinar</string>
+    <string name="btn_crear_webinar">Crear Webinar</string>
+    <string name="btn_listar_webinars">Lista de Webinars</string>
+    <string name="create_webinar_name">Nombre del Webinar:</string>
+    <string name="create_webinar_institution">Institución Organizadora:</string>
+    <string name="create_webiner_conferencista">Conferencista:</string>
+    <string name="create_webinar_date">Fecha:</string>
+    <string name="create_wbinar_link">Link de registro:</string>
+    <string name="btn_create_webinar">Crear webinar</string>
+    <string name="btn_create_webinar_cancel">Cancelar</string>
+    <string name="na" />
+    <string name="btn_show">Ver</string>
+    <string name="btn_delete">Eliminar</string>
+    <string name="btn_edit">Editar</string>
+    <string name="btn_volver">Volver</string>
+</resources>
