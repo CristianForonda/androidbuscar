@@ -1,0 +1,7 @@
+#Tue Apr 13 17:09:58 COT 2021
+base.0=F\:\\ExamplesAndroid\\Universidadv3\\Universidad\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=F\:\\ExamplesAndroid\\Universidadv3\\Universidad\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex
